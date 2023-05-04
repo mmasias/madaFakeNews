@@ -2,7 +2,7 @@
 
 ## La rueda, un invento que podría transformar la manera en que nos desplazamos, también plantea desafíos en términos de seguridad y sostenibilidad
 
-* Un equipo de ingenieros e investigadores ha anunciado un descubrimiento sorprendente que podría cambiar el mundo tal como lo conocemos: la "rueda". Este innovador invento, que consiste en un objeto circular que gira alrededor de un eje central, promete facilitar el transporte de personas y mercancías, así como la construcción de maquinaria y vehículos. Sin embargo, expertos advierten sobre los posibles riesgos y consecuencias negativas que podría generar este avance tecnológico.
+*Un equipo de ingenieros e investigadores ha anunciado un descubrimiento sorprendente que podría cambiar el mundo tal como lo conocemos: la "rueda". Este innovador invento, que consiste en un objeto circular que gira alrededor de un eje central, promete facilitar el transporte de personas y mercancías, así como la construcción de maquinaria y vehículos. Sin embargo, expertos advierten sobre los posibles riesgos y consecuencias negativas que podría generar este avance tecnológico.*
 
 La rueda, según sus creadores, es un dispositivo que podría revolucionar el ámbito del transporte y la movilidad, permitiendo desplazamientos más rápidos y eficientes. No obstante, también existen preocupaciones en cuanto a la seguridad, la congestión del tráfico y el impacto ambiental que podría acarrear la adopción masiva de esta nueva tecnología.
 
