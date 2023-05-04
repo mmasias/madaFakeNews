@@ -1,5 +1,7 @@
 # ¡Alerta mundial! Científicos acaban de inventar el "cuchillo", una herramienta que podría cambiar nuestras vidas para siempre
 
+<img src="https://user-images.githubusercontent.com/8528047/236256410-b4c856ed-b6d9-4606-9e46-dd21d58a321a.png" width="35%" align ="right" />
+
 ## El cuchillo, un invento revolucionario con un potencial destructivo alarmante, genera controversia y preocupación en la sociedad
 
 *En un sorprendente avance tecnológico, científicos de renombre internacional han anunciado el descubrimiento de una nueva herramienta denominada "cuchillo". A pesar de su aparente utilidad en tareas cotidianas como cortar alimentos o abrir paquetes, expertos advierten sobre los peligros potenciales de este invento.*
